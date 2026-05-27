@@ -1,4 +1,6 @@
 # 🎯 Guess The Number Game
+1-Month Software Engineering Internship at [SkillCraft Technology](https://skillcrafttech.com?utm_source=chatgpt.com) | Second Task: Guess-The-Number-Game 🚀
+
 
 A modern and interactive number guessing game built using HTML, CSS, and JavaScript.
 
